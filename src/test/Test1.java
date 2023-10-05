@@ -3,8 +3,8 @@ package test;
 public class Test1 {
 	public static void main(String[] args) {
 		
-	  String name = "김태희";
-      int score = 75; 
+	  String branch_name = "branchA";
+      int score = 0; 
       char grade = ' ';
       
       if ((score>=90)&&(score<=100)) {
@@ -27,5 +27,6 @@ public class Test1 {
       }
       
       System.out.println("점수 : "+score+"\t학점 : "+grade );
+      System.out.println("branch : " + branch_name);
 	}
 }

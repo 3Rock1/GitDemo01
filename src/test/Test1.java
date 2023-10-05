@@ -26,7 +26,7 @@ public class Test1 {
          System.out.println("잘못된 점수입니다.");
       }
       
-      System.out.println("점수 : "+ score + ", 학점 : "+ grade);
+      System.out.println("점수 : "+ score + ", 학점 : "+ grade );
       System.out.println("branch : " + branch_name);
 	}
 }

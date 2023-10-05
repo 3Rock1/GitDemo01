@@ -27,6 +27,6 @@ public class Test1 {
       }
       
       System.out.println("점수 : "+score+"\t학점 : "+grade );
-      System.out.println("branch : " + branch_name);
+      System.out.println("branch : " + branch_name );
 	}
 }
